@@ -1,0 +1,20 @@
+Songs in D4DPack - Current Lineup
+minecraft:music_disc_13: Happy Around - Happy Music
+minecraft:music_disc_cat: Peaky P-key - ABSOLUTE
+minecraft:music_disc_blocks: Airi Amano (CV: Nana Mizuki) & Shano Himegami (CV: RAYCHELL) - WOW WAR TONIGHT
+minecraft:music_disc_chirp:Happy Around - ぐるぐるDJ TURN!!
+minecraft:music_disc_far: Photon Maiden - Here's The Light
+minecraft:music_disc_mall: Lyrical Lily - Friend Shitai
+minecraft:music_disc_mellohi: Happy Around - Give Me Awesome
+minecraft:music_disc_stal: Photon Maiden - 4 Challenges
+minecraft:music_disc_strad: Peaky P-key - Gonna Be Right
+minecraft:music_disc_ward: Peaky P-key - Electric Chaos/Denran Countdown
+minecraft:music_disc_11: Lyrical Lily - I Shall Be A Cat
+minecraft:music_disc_wait: Peaky P-key - Wish You Luck
+minecraft:music_disc_pigstep: D4DJ Groovy Mix - LOVE!HUG!GROOVY
+
+Removed Songs
+minecraft:music_disc_stal: Merm4id - Floor Killer: Replaced by Photon Maiden - 4 Challenges
+
+Recently added
+minecraft:music_disc_chirp:Happy Around - ぐるぐるDJ TURN!!
